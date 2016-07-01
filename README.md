@@ -2,5 +2,5 @@
 ###By Bala Rohit Yeruva
 
 * First Repository
-* All the best!!
+* All the best
 
